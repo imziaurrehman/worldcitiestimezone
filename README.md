@@ -9,7 +9,7 @@ This project is about world cities time zone.
 <table>
   <tr>
     <td>Splash</td>
-    <td>Splash</td>
+    <td>home</td>
   </tr>
   
   <tr>
@@ -18,8 +18,8 @@ This project is about world cities time zone.
   </tr>
 
 <tr>
-    <td>Splash</td>
-    <td>Splash</td>
+    <td>choose loc</td>
+    <td>choose loc</td>
   
   </tr>
 <td><img src="https://github.com/imziaurrehman/worldcitiestimezone/blob/main/assets/Screenshot_1710622792.png" width=270 height=520></td>
