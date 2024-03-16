@@ -38,7 +38,7 @@ class MyDateTimeLocation {
       time = DateFormat.jm().format(myDateTimeFormatting);
 //    print(time);
     } catch (e) {
-      print('detect_error $e');
+      print('detect_error_print $e');
 //      time = 'show some data';
     }
   }
