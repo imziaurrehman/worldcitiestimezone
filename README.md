@@ -6,6 +6,11 @@ A new Flutter project.
 
 This project is about world cities time zone.
 
+Developed "WorldCitiesTimes" application showcasing current time in different cities utilizing a dummy API to simulate real-time data.
+Implemented a user-friendly front page displaying cities along with their respective current times, enhancing user engagement and experience.
+Designed and integrated a custom "Customize City Time" button enabling users to navigate to a secondary screen for city selection and seamlessly return to the home screen.
+Utilized Flutter's navigation system to facilitate smooth transitions between screens, ensuring a seamless user experience.
+
 <table>
   <tr>
     <td>Splash</td>
